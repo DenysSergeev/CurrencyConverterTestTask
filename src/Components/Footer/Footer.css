@@ -1,0 +1,28 @@
+.footer,
+.footer-bottom {
+    background: #065BEA;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer,
+.footer-bottom ul li a {
+    line-height: 30px;
+    color: #fff;
+    position: relative;
+    display: block;
+    text-decoration: none;
+    font-family: "Montserrat";
+}
+
+.footer-title {
+    color: #fff;
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+}
+
+.footer-title a {
+    color: #fff;
+    font-size: 1.4rem;
+    text-decoration: none;
+}
